@@ -3,5 +3,5 @@
 
 🎓 Data Science undergrad | Designer at heart  
 🧠 Currently learning Python, Pandas, and Data Visualisation  
-📊 Slowly building my portfolio — watch this space!  
+📊 Slowly building my [portfolio](./portfolio-projects) — watch this space!  
 
