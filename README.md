@@ -3,5 +3,5 @@
 
 🎓 Data Science undergrad | Designer at heart  
 🧠 Currently learning Python, Pandas, and Data Visualisation  
-📊 Slowly building my [portfolio](./portfolio-projects) — watch this space!  
+📊 Slowly building my [portfolio](https://github.com/RavenishFrey/Portfolio-Projects) — watch this space!  
 
